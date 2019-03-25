@@ -36,7 +36,7 @@
                         <div class="carousel-caption text-right">
                             <h1>Tailored for your team.</h1>
                             <p>An amazing ORM, painless routing, powerful queue library, and simple authentication give you the tools you need for modern, maintainable PHP. We sweat the small stuff to help you deliver amazing applications. </p>
-                            <p><a class="btn btn-lg btn-primary" href="#" role="button">Browse gallery</a></p>
+
                         </div>
                     </div>
                 </div>
@@ -59,7 +59,7 @@
 
             <div class="row featurette">
                 <div class="col-md-7">
-                    <h2 class="featurette-heading">First featurette heading. <span class="text-muted">Laravel Horizon</span></h2>
+                    <h2 class="featurette-heading"> <span class="text-muted">Laravel Horizon</span></h2>
                     <p class="lead">Horizon provides a beautiful dashboard and code-driven configuration for your Laravel powered Redis queues. Horizon allows you to easily monitor key metrics of your queue system such as job throughput, runtime, and job failures.
 
                         All of your worker configuration is stored in a single, simple configuration file, allowing your configuration to stay in source control where your entire team can collaborate.</p>
@@ -73,7 +73,7 @@
 
             <div class="row featurette">
                 <div class="col-md-7 order-md-2">
-                    <h2 class="featurette-heading">Oh yeah, it’s that good. <span class="text-muted">Laravel Nova</span></h2>
+                    <h2 class="featurette-heading"><span class="text-muted">Laravel Nova</span></h2>
                     <p class="lead">Nova is a beautifully designed administration panel for Laravel. Carefully crafted by the creators of Laravel to make you the most productive developer in the galaxy. </p>
                 </div>
                 <div class="col-md-5 order-md-1">
@@ -85,7 +85,7 @@
 
             <div class="row featurette">
                 <div class="col-md-7">
-                    <h2 class="featurette-heading">And lastly, this one. <span class="text-muted">Laravel Echo</span></h2>
+                    <h2 class="featurette-heading"> <span class="text-muted">Laravel Echo</span></h2>
                     <p class="lead">In many modern web applications, WebSockets are used to implement realtime, live-updating user interfaces. When some data is updated on the server, a message is typically sent over a WebSocket connection to be handled by the client. This provides a more robust, efficient alternative to continually polling your application for changes.</p>
                 </div>
                 <div class="col-md-5">
