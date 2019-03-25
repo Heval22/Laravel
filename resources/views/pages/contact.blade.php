@@ -23,7 +23,7 @@
 
 
                 <div class="form-group">
-                    <label for="exampleFormControlSelect1">Example select</label>
+                    <label for="exampleFormControlSelect1">Department</label>
                     <select class="form-control" id="exampleFormControlSelect1">
                         <option>Pricing/Sales</option>
                         <option>Billing/Payment</option>
@@ -32,7 +32,7 @@
                     </select>
                 </div>
                 <div class="form-group">
-                    <label for="exampleFormControlSelect2">Example multiple select</label>
+                    <label for="exampleFormControlSelect2">Multiple Departments</label>
                     <select multiple class="form-control" id="exampleFormControlSelect2">
                         <option>Pricing/Sales</option>
                         <option>Billing/Payment</option>
